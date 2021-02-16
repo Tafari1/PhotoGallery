@@ -1,0 +1,19 @@
+img{
+    width: 30%;
+    height: 334px;
+    margin: 1.45%;
+    
+}
+h1 a{
+    text-transform: uppercase;
+    margin-left: 1.45%;
+    cursor: grab;
+    text-decoration: underline none;
+    color: black;
+  
+}
+a:hover{
+    text-decoration: underline;
+    color: rgba(89, 0, 255, 0.37);
+}
+
